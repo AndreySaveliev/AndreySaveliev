@@ -3,8 +3,8 @@
 ![](https://github.com/AndreySaveliev/AndreySaveliev/main/header.png)
 
 I'm a student of Yandex.Practicum. Right now i am making my first steps in web-development.
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreySaveliev&theme=pink)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreySaveliev&theme=pink)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreySaveliev&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreySaveliev&theme=monokai)
 
 <!--
 **AndreySaveliev/AndreySaveliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

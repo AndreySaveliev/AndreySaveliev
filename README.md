@@ -2,9 +2,10 @@
 
 ![](https://github.com/AndreySaveliev/AndreySaveliev/blob/main/header.png)
 
-## I'm a student of Yandex.Practicum. Right now i am making my first steps in web-development.
+## Hi! :sunglasses: :wave:
+My name is Andrey. I am junior web-developer. Currently i am making my first steps in web. My goal is to make programming mine mane job
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreySaveliev&theme=monokai)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreySaveliev&theme=monokai) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreySaveliev&theme=monokai)
 
 ### Skills

@@ -16,7 +16,7 @@ My name is Andrey. I am junior web-developer.
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plactic&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plactic&logo=tailwind-css&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic)
 ### My contacts
-- [<img alt='Code-wars' width='114px' src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey' />](https://www.codewars.com/users/AndreySaveliev)
+- [<img alt='Code-wars' width='114px' src='https://img.shields.io/badge/Codewars-B1361E?style=plactic&logo=Codewars&logoColor=white' />](https://www.codewars.com/users/AndreySaveliev)
 - [<img alt="Telegram" width="114px" src="https://badges.aleen42.com/src/telegram.svg" />](https://t.me/eternaljjoy)
 
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/eternaljjoy) -->

@@ -3,7 +3,7 @@
 <!-- ![](https://github.com/AndreySaveliev/AndreySaveliev/blob/main/header.png) -->
 
 ## Hi! :sunglasses: :wave:
-My name is Andrey. I am junior web-developer.
+My name is Andrey. I am a web-developer.
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreySaveliev&theme=monokai) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreySaveliev&theme=monokai)
